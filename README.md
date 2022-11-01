@@ -1,4 +1,4 @@
 # NlwCopa
 Projeto mobile com React Native
 
-Start server: npm run dev
+Start server: <b>npm run dev</b>
