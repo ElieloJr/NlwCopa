@@ -100,7 +100,7 @@ export default function Home(props: HomeProps) {
   )
 }
 
-// getStaticProps -> Utilizado pra não puxar dados do banco toda vez q entra
+// getStaticProps -> Utilizado pra não puxar dados do banco toda vez q entra BLA
 
 export const getServerSideProps = async () => {
   const [ poolCountResponse, guessCountResponse, userCountResponse] = await Promise.all([
